@@ -1,0 +1,13 @@
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.csproj.AssemblyReference.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.AssemblyInfoInputs.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.AssemblyInfo.cs
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.csproj.CoreCompileInputs.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\bin\Debug\netcoreapp3.1\Domain.Ingenio.deps.json
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\bin\Debug\netcoreapp3.1\Domain.Ingenio.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\bin\Debug\netcoreapp3.1\Domain.Ingenio.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.csproj.CopyComplete
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Domain.Ingenio\obj\Debug\netcoreapp3.1\Domain.Ingenio.pdb

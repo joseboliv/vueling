@@ -1,0 +1,10 @@
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\b\Domain.GNB\Debug\net5.0\Domain.GNB.deps.json
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\b\Domain.GNB\Debug\net5.0\Domain.GNB.dll
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\Domain.GNB.csproj.AssemblyReference.cache
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\Domain.GNB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\Domain.GNB.AssemblyInfoInputs.cache
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\Domain.GNB.AssemblyInfo.cs
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\Domain.GNB.csproj.CopyComplete
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\Domain.GNB.dll
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\refint\Domain.GNB.dll
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Domain.GNB\Debug\net5.0\ref\Domain.GNB.dll

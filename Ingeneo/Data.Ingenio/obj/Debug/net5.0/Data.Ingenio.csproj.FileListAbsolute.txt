@@ -1,0 +1,17 @@
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.csproj.AssemblyReference.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.AssemblyInfoInputs.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.AssemblyInfo.cs
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.csproj.CoreCompileInputs.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Data.Ingenio.deps.json
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Data.Ingenio.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Data.Ingenio.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Domain.Ingenio.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Utilities.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Domain.Ingenio.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\bin\Debug\net5.0\Utilities.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.csproj.CopyComplete
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\refint\Data.Ingenio.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\Data.Ingenio.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Data.Ingenio\obj\Debug\net5.0\ref\Data.Ingenio.dll

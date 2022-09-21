@@ -1,0 +1,10 @@
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\bin\Debug\netcoreapp3.1\Utilities.deps.json
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\bin\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\bin\Debug\netcoreapp3.1\Utilities.pdb
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.AssemblyReference.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfoInputs.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.AssemblyInfo.cs
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.dll
+C:\Users\jose1\source\Vueling\Ingeneo\Utilities\obj\Debug\netcoreapp3.1\Utilities.pdb

@@ -1,0 +1,10 @@
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\b\Utilities\Debug\net5.0\Utilities.deps.json
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\b\Utilities\Debug\net5.0\Utilities.dll
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\Utilities.csproj.CopyComplete
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\Utilities.dll
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\refint\Utilities.dll
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Utilities\Debug\net5.0\ref\Utilities.dll

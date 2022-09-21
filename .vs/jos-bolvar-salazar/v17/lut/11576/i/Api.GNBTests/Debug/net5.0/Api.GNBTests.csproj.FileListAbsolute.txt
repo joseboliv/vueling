@@ -1,0 +1,4 @@
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Api.GNBTests\Debug\net5.0\Api.GNBTests.csproj.AssemblyReference.cache
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Api.GNBTests\Debug\net5.0\Api.GNBTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Api.GNBTests\Debug\net5.0\Api.GNBTests.AssemblyInfoInputs.cache
+C:\Users\jose1\source\Vueling\jos-bolvar-salazar\.vs\jos-bolvar-salazar\v17\lut\0\i\Api.GNBTests\Debug\net5.0\Api.GNBTests.AssemblyInfo.cs
